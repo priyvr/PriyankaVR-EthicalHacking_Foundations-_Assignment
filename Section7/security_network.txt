@@ -1,0 +1,56 @@
+1. OSI MODEL
+
+The OSI model has 7 layers:
+
+1. Application Layer – HTTP, FTP
+2. Presentation Layer – Encryption, SSL
+3. Session Layer – Session management
+4. Transport Layer – TCP, UDP
+5. Network Layer – IP
+6. Data Link Layer – MAC, Ethernet
+7. Physical Layer – Cables, signals
+
+TCP works at the Transport Layer.
+
+
+2. IP ADDRESSING
+
+Public IP:
+- Used on the internet
+- Unique worldwide
+
+Private IP:
+- Used in local networks
+- Not accessible from internet
+
+Private IP ranges:
+- 10.0.0.0 – 10.255.255.255
+- 172.16.0.0 – 172.31.255.255
+- 192.168.0.0 – 192.168.255.255
+
+192.168.1.100 is a PRIVATE IP.
+
+
+3. TCP vs UDP
+
+TCP:
+- Reliable
+- Ensures data delivery
+- Slower
+
+UDP:
+- Faster
+- No guarantee of delivery
+
+
+4. NAT (Network Address Translation)
+
+NAT converts private IP addresses into a public IP address.
+
+It allows multiple devices in a network to share one internet connection.
+
+
+My IP Address: 192.168.1.5  
+Default Gateway: 192.168.1.1  
+DNS Server: 8.8.8.8  
+Hops to reach google.com: 10  
