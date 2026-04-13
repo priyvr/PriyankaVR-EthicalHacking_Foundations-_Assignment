@@ -1,0 +1,2 @@
+Port 80: OPEN
+Port 22: CLOSED
