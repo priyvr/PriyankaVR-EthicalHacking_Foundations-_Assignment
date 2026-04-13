@@ -1,0 +1,38 @@
+1. OSI Model:
+There are 7 layers:
+Application, Presentation, Session, Transport, Network, Data Link, Physical.
+Example protocols:
+Application - HTTP
+Presentation - SSL
+Session - NetBIOS
+Transport - TCP
+Network - IP
+Data Link - Ethernet
+Physical - Cables
+TCP works at Transport layer.
+
+2. IP Addressing:
+Public IP is used on internet.
+Private IP is used inside local network.
+Private IP ranges:
+Class A: 10.0.0.0 - 10.255.255.255
+Class B: 172.16.0.0 - 172.31.255.255
+Class C: 192.168.0.0 - 192.168.255.255
+192.168.1.100 is private IP.
+
+3. Protocols:
+22 - SSH
+80 - HTTP
+443 - HTTPS
+3306 - MySQL
+TCP is connection-based, UDP is faster but no guarantee.
+NAT converts private IP to public IP to access internet.
+
+
+
+
+
+My IP Address: 192.168.1.5  
+Default Gateway: 192.168.1.1  
+DNS Server: 8.8.8.8  
+Hops to reach google.com: 10  
